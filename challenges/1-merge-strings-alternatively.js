@@ -5,7 +5,7 @@ Return the merged string.
 */
 
 /*
-EXAMPLE"
+EXAMPLE:
 Input: word1 = "abc", word2 = "pqr"
 Output: "apbqcr"
 Explanation: The merged string will be merged as so:
@@ -15,7 +15,9 @@ merged: a p b q c r
 */
 
 /*
-PLAN:
+CONSTRAINTS:
+1 <= word1.length, word2.length <= 100
+word1 and word2 consist of lowercase English letters.
 */
 
 /*
