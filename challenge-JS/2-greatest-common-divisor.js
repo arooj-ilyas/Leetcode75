@@ -12,6 +12,10 @@ Output: "ABC"
 
 /*
 CONSTRAINTS:
-`1 <= str1.length`, `str2.length <= 1000`
+1 <= str1.length, str2.length <= 1000
 str1 and str2 consist of English uppercase letters.
+*/
+
+/*
+APPROACH:
 */
