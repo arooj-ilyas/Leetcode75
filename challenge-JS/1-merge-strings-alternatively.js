@@ -29,6 +29,8 @@ APPROACH:
 - Return the concatenated string as the result of the mergeAlternately method.
 */
 
+// [Link to solution](https://leetcode.com/problems/merge-strings-alternately/solutions/6066647/js-solution-merge-strings-alternatively/)
+
 var mergeAlternately = function (word1, word2) {
   let mergedString = "";
   let maxLength = Math.max(word1.length, word2.length);
