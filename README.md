@@ -13,4 +13,4 @@ https://leetcode.com/studyplan/leetcode-75/
 
 - [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75)
 - [Link to solution](https://leetcode.com/problems/greatest-common-divisor-of-strings/solutions/6083125/js-solution-greatest-common-divisor-of-strings/)
-- Something new learnt:
+- Something new learnt: `Math.min()` and decrementing in loop with `l--`
